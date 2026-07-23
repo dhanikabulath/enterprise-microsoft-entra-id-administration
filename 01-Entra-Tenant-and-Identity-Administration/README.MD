@@ -332,3 +332,4 @@ The next project will focus on Microsoft Entra group administration, including s
 ---
 
 **Status:** Completed
+<!-- Project 01 portfolio documentation -->
